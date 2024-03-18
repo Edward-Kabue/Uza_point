@@ -24,7 +24,7 @@ jobs:
           mkdir -p database
           touch database/database.sqlite
       - name: Run Tests
-        run: php artisan test
+        run: ./vendor/bin/pest
       - name: Install xdebug
         run: sudo apt-get install php-xdebug
       - name: Run Tests with Code Coverage
