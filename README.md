@@ -1,7 +1,9 @@
 # Shop Name
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![License](https://img.shields.io/github/license/username/repo.svg)](https://github.com/username/repo/blob/master/LICENSE)
+## Screenshots
+
+![Screenshot 1](public\lunar_products.png)
+![Screenshot 2](public\lunar_dashboard.png)
 
 ## Description
 
