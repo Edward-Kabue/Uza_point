@@ -1,9 +1,12 @@
-# Shop Name
+# Lunar Ecommerce
 
-## Screenshots
+## Products Dashboard
 
 ![Screenshot 1](public/lunar_products.png)
-![Screenshot 2](public\lunar_dashboard.png)
+
+## Dashboard
+
+![Screenshot 2](public/lunar_dashboard.png)
 
 ## Description
 
