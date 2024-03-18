@@ -1,4 +1,4 @@
-# Lunar Ecommerce
+# Uza point
 
 ## Products Dashboard
 
