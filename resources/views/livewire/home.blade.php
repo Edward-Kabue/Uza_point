@@ -1,0 +1,1 @@
+<x-welcome-banner />
