@@ -10,7 +10,7 @@ class SearchPage extends Component
 {
     use WithPagination;
 
-  
+
     public function render()
     {
         return view('livewire.search-page');
